@@ -1,0 +1,9 @@
+https://latesthackingnews.com/tag/best-vulnhub-hacking-challenges/
+https://medium.com/@andr3w_hilton/oscp-training-vms-hosted-on-vulnhub-com-22fa061bf6a1
+detailed Google Calendar
+https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/
+https://www.abatchy.com/2017/03/osce-study-plan
+https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/
+https://github.com/ferreirasc/oscp
+http://www.fuzzysecurity.com/tutorials/16.html
+https://sushant747.gitbooks.io/total-oscp-guide/privilege_escalation_windows.html
